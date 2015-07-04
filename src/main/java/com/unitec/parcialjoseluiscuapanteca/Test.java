@@ -33,10 +33,6 @@ public class Test {
         Transaction tranza= sesion.beginTransaction();
         
         
-         Evaluacion e=new Evaluacion();
-                
-                e.setNombre("Ana");
-                e.setCalificacion("7");
                 
         
     }

@@ -14,20 +14,7 @@
     <body>
         <h1>Resultado Calificaciones</h1>
         
-         <form action="resultados" method="get">
-            <table>
-                <tr>
-                    <td>Nombre</td><td><input type="text" name="nombre"></td>
-                </tr>
-                <tr>
-                    <td>Calificacion</td><td><input type="text" name="calificacion"></td>
-                </tr>
-                <tr>
-                    
-                    <td></td> <td><input type="submit" value="Guardar Calificacion"></td>
-                </tr>
-            </table>
-        </form>
+        
         
     </body>
 </html>
