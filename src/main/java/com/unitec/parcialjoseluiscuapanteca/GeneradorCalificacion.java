@@ -11,9 +11,21 @@ package com.unitec.parcialjoseluiscuapanteca;
  */
 public class GeneradorCalificacion {
     
-    Evaluacion e=new Evaluacion
+    Evaluacion e=new Evaluacion();
            
-            
+    
+          
+       
+       
+             
+                e.setNombre("Petra");
+                e.setCalificacion("5.8");
+                
+                e.setNombre("Jose");
+                e.setCalificacion("7.4");
+                
+                e.setNombre("Roberta");
+                e.setCalificacion("8.6");
     
     
 }
